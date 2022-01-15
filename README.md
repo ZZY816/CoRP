@@ -11,8 +11,6 @@ CoRP 可以基于任意现成 SOD 方法产生的 SISMs 进行训练和测试，
 
 1. 下载预训练的 VGG16：
 
-   * ***vgg16_feat.pth*** (56MB)，[GoogleDrive](https://drive.google.com/file/d/1ej5ngj2NYH-R-0GfYUDfuM-DNLuFolED/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/1kAh7FAUPuVLI5cvtBsxh-A) (提取码：j0zq)。
-
 2. 根据 **"./CoRP/train.py"** 中的说明修改训练设置。
 
 3. 运行：
