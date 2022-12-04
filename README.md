@@ -1,4 +1,4 @@
-# CoRP
+# Co-Salient Object Detection with Co-Representation Purification
 
 ## 训练和测试
 
