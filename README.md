@@ -16,7 +16,9 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 
 ## **Results**
 
++ quatitative results
 <div align=center><img width="800" height="280" src=./figures/compare.png/></div>
 
++ qualitative results
 <div align=center><img width="800" height="400" src=./figures/qualitative.png/></div>
 
