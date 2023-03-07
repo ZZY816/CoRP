@@ -1,3 +1,4 @@
-# Co-Salient Object Detection with Co-Representation Purification
+# **Co-Salient Object Detection with Co-Representation Purification**
 
-# The complete code will be released in February 2023
+This repository is the official PyTorch implementation of our TPAMI2023 paper.
+
