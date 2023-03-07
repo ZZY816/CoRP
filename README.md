@@ -2,4 +2,4 @@
 
 This repository is the official PyTorch implementation of our CoRP.
 
-<div align=center><img width="450" height="300" src=./main.jpg/></div>
+<div align=center><img width="450" height="300" src=./figures/main.jpg/></div>
