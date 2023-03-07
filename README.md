@@ -16,7 +16,7 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 
 ## **Results**
 
-<div align=center><img width="750" height="330" src=./figures/result.png/></div>
+<div align=center><img width="750" height="330" src=./figures/compare.png/></div>
 
 <div align=center><img width="750" height="330" src=./figures/qualitative.png/></div>
 
