@@ -16,8 +16,7 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 
 ## **Results**
 
-+ Comparison with the previous state-of-the-art methods with different training sets:
+<div align=center><img width="750" height="330" src=./figures/result.png/></div>
 
+<div align=center><img width="750" height="330" src=./figures/qualitative.png/></div>
 
-
-+ Ablation study:
