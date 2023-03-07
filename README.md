@@ -20,5 +20,5 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 <div align=center><img width="800" height="280" src=./figures/compare.png/></div>
 
 + qualitative results
-<div align=center><img width="800" height="440" src=./figures/qualitative.png/></div>
+<div align=center><img width="800" height="470" src=./figures/qualitative.png/></div>
 
