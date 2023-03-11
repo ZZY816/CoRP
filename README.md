@@ -23,3 +23,16 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 <div align=center><img width="800" height="500" src=./figures/qualitative.png/></div>
 
 ## **Usage**
+
+    ```
+    +-- CoRP
+    |   +-- Dataset
+    |       +-- COCO9213  
+    |       +-- Jigsaw_DUTS    
+    |       +-- DUTS-TR    
+    |       +-- COCOSAL    
+    |       +-- CoSal2015    
+    |       +-- CoCA    
+    |       +-- CoSOD3k    
+    |   ...
+    ```
