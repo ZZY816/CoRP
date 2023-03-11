@@ -24,7 +24,7 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 
 ## **Usage**
 1. **Datasets preparation**
-   
+    ```
     +-- CoRP
     |   +-- Dataset
     |       +-- COCO9213  
@@ -35,4 +35,4 @@ Our source code is available at https://github.com/ZZY816/CoRP.
     |       +-- CoCA    
     |       +-- CoSOD3k    
     |   ...
-  
+    ```
