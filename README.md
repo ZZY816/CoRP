@@ -60,5 +60,6 @@ The predicted results of our model trained by COCO9k only is available at [googl
     ```
     CUDA_VISIBLE_DEVICES=0 python evaluate.py --pred_root './Predictions/pred_vgg_coco/pred'
     ```
+    For more metrics, CoSOD evaluation toolbox [eval-co-sod](https://github.com/zzhanghub/eval-co-sod) is strongly recommended.
        
  
