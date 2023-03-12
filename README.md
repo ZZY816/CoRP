@@ -16,7 +16,7 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 
 ## **Results**
 
-The predicted results of our model trained by COCO9k only is available at [google-drive](https://drive.google.com/file/d/1YWxLQhe26bvFXfXzXIFw19mx69ESs1Lq/view?usp=sharing)|[BaiduYun](https://pan.baidu.com/s/19sDWXHk0D04IlNdeGhdKDw)(fetch code: 7lmh)
+The predicted results of our model trained by COCO9k only is available at [google-drive](https://drive.google.com/file/d/1YWxLQhe26bvFXfXzXIFw19mx69ESs1Lq/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/19sDWXHk0D04IlNdeGhdKDw)(fetch code: 7lmh)
 + quantitative results
 <div align=center><img width="800" height="280" src=./figures/compare.png/></div>
 
