@@ -48,9 +48,9 @@ The predicted results of our model trained by COCO9k only is available at [googl
     |   +-- ckpt (The root for saving your checkpoint)
     |   ... 
     ```
- 3. **Test**
+ 3. **Test and evalutation**
  
-       Download the ckeckpoint of our model from [google-drive](https://drive.google.com/file/d/1YWxLQhe26bvFXfXzXIFw19mx69ESs1Lq/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/19sDWXHk0D04IlNdeGhdKDw) (fetch code: 7lmh). Here is a command example of testing our model (trained by COCO9k with vgg16 backbone).
+       Download the ckeckpoints of our model from [google-drive](https://drive.google.com/file/d/1YWxLQhe26bvFXfXzXIFw19mx69ESs1Lq/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/19sDWXHk0D04IlNdeGhdKDw) (fetch code: 7lmh). Place the *ckpt* folder in the main directory. Here is a command example of testing our model (trained by COCO9k with vgg16 backbone).
     ```
     CUDA_VISIBLE_DEVICES=0 python test.py --backbone vgg16 --ckpt_path './ckpt/vgg16_COCO9k/checkpoint.pth' --pred_root './Predictions/pred_vgg_coco/pred' 
        ```
