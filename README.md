@@ -25,17 +25,18 @@ Our source code is available at https://github.com/ZZY816/CoRP.
 ## **Usage**
 1. **Datasets preparation**
 
-    Download all the single train/test datasets from my [google-drive](https://drive.google.com/file/d/1xD9BfxFnBl6vw0X97GXqLd8yBVR1tc3S/view?usp=sharing) and [google-drive](https://drive.google.com/file/d/1LAPmlWhnND9tBO3n_RaW2_ZIY0Jy1BGJ/view?usp=sharing). The file directory structure on my machine is as follows:
+    Download all the train/test datasets from my [google-drive](https://drive.google.com/file/d/1xD9BfxFnBl6vw0X97GXqLd8yBVR1tc3S/view?usp=sharing) and [google-drive](https://drive.google.com/file/d/1LAPmlWhnND9tBO3n_RaW2_ZIY0Jy1BGJ/view?usp=sharing), or [BaiduYun](https://pan.baidu.com/s/1wOxdP6EQEqMwjg3_v1z2-A) (fetch code: 5183). The file directory structure is as follows:
     ```
     +-- CoRP
     |   +-- Dataset
-    |       +-- COCO9213  
-    |       +-- Jigsaw_DUTS    
-    |       +-- DUTS-TR    
-    |       +-- COCOSAL    
-    |       +-- CoSal2015    
-    |       +-- CoCA    
-    |       +-- CoSOD3k    
-    |   ...
+    |       +-- COCO9213  (Training Dataset for co-saliency branch)
+    |       +-- Jigsaw_DUTS (Training Dataset for co-saliency branch)   
+    |       +-- DUTS-TR (Training Dataset for saliency head)   
+    |       +-- COCOSAL (Training Dataset for saliency head)  
+    |       +-- CoSal2015 (Testing Dataset)   
+    |       +-- CoCA (Testing Dataset)  
+    |       +-- CoSOD3k (Testing Dataset)   
+    |   +-- ckpt (The root for saving your checkpoint)
+    |   ... 
     ```
  
