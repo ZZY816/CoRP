@@ -54,7 +54,9 @@ The predicted results of our model trained by COCO9k only is available at [googl
     ```
     CUDA_VISIBLE_DEVICES=0 python test.py --backbone vgg16 --ckpt_path './ckpt/vgg16_COCO9k/checkpoint.pth' --pred_root './Predictions/pred_vgg_coco/pred' 
     ```
-        Run the following command to evaluate your prediction results：
+    
+    Run the following command to evaluate your prediction results：
+    
     ```
     CUDA_VISIBLE_DEVICES=0 python evaluate.py --pred_root './Predictions/pred_vgg_coco/pred'
     ```
