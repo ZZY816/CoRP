@@ -24,7 +24,12 @@ The predicted results of our model trained by COCO9k only is available at [googl
 <div align=center><img width="800" height="500" src=./figures/qualitative.png/></div>
 
 ## **Usage**
-1. **Datasets preparation**
+1. **Environment**
+
+    ```
+    pip install requirements.txt
+    
+2. **Datasets preparation**
 
     Download all the train/test datasets from my [google-drive](https://drive.google.com/file/d/1xD9BfxFnBl6vw0X97GXqLd8yBVR1tc3S/view?usp=sharing) and [google-drive](https://drive.google.com/file/d/1LAPmlWhnND9tBO3n_RaW2_ZIY0Jy1BGJ/view?usp=sharing), or [BaiduYun](https://pan.baidu.com/s/1wOxdP6EQEqMwjg3_v1z2-A) (fetch code: 5183). The file directory structure is as follows:
     ```
