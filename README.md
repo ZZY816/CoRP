@@ -27,7 +27,8 @@ The predicted results of our model trained by COCO9k only is available at [googl
 1. **Environment**
 
     ```
-    pip install requirements.txt
+    opencv-python==4.5.3.56
+    torch==1.9.0
     ```
 
 2. **Datasets preparation**
