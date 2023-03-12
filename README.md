@@ -48,4 +48,6 @@ The predicted results of our model trained by COCO9k only is available at [googl
     |   +-- ckpt (The root for saving your checkpoint)
     |   ... 
     ```
+   3. **Test**
+   Download the ckeckpoint of our model (trained by COCO9k only with vgg16 backbone) from [google-drive](https://drive.google.com/file/d/1YWxLQhe26bvFXfXzXIFw19mx69ESs1Lq/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/19sDWXHk0D04IlNdeGhdKDw) (fetch code: 7lmh).
  
