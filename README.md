@@ -63,5 +63,9 @@ The predicted results of our model trained by COCO9k only is available at [googl
     For more metrics, CoSOD evaluation toolbox [eval-co-sod](https://github.com/zzhanghub/eval-co-sod) is strongly recommended.
     
  4. **Train your own model**
-       
+
+    Currently, our CoRP can be trained with various backbones and training datasets.  
+    ```
+    CUDA_VISIBLE_DEVICES=0 python train.py --backbone <vgg16 or resnet50> --cosal_set <COCO9k or DUTS>  --sal_set <COCO9k or DUTS> --ckpt_root <Path for saving your checkpoint>
+    ```
  
