@@ -66,6 +66,6 @@ The predicted results of our model trained by COCO9k only is available at [googl
 
     Currently, our CoRP can be trained with various backbones and training datasets.  
     ```
-    CUDA_VISIBLE_DEVICES=0 python train.py --backbone \<vgg16 or resnet50\> --cosal_set <COCO9k or DUTS>  --sal_set <COCO9k or DUTS> --ckpt_root <Path for saving your checkpoint>
+    CUDA_VISIBLE_DEVICES=0 python train.py --backbone /<vgg16 or resnet50/> --cosal_set <COCO9k or DUTS>  --sal_set <COCO9k or DUTS> --ckpt_root <Path for saving your checkpoint>
     ```
  
