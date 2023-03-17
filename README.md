@@ -1,6 +1,6 @@
 # **TPAMI2023 : Co-Salient Object Detection with Co-Representation Purification**
 
-This repository is the official PyTorch implementation of our CoRP.
+This repository is the official PyTorch implementation of our CoRP. [[**arXiv**](https://arxiv.org/abs/2303.07670)]
 
 <div align=center><img width="550" height="230" src=./figures/main1.png/></div>
 
@@ -69,3 +69,19 @@ The predicted results of our model trained by COCO9k only is available at [googl
     CUDA_VISIBLE_DEVICES=0 python train.py --backbone <vgg16 or resnet50> --cosal_set <COCO9k or DUTS>  --sal_set <COCO9k or DUTS> --ckpt_root <Path for saving your checkpoint>
     ```
  
+ ## Citation
+    ```
+  @ARTICLE{10008072,
+  author={Zhu, Ziyue and Zhang, Zhao and Lin, Zheng and Sun, Xing and Cheng, Ming-Ming},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Co-Salient Object Detection with Co-Representation Purification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TPAMI.2023.3234586}}
+    ```
+ 
+ ## Contact
+
+    Feel free to leave issues here or send me e-mails (zhuziyue@mail.nankai.edu.cn).
