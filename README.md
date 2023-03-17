@@ -83,5 +83,5 @@ The predicted results of our model trained by COCO9k only is available at [googl
   ```
  
  ## Contact
-
-    Feel free to leave issues here or send me e-mails (zhuziyue@mail.nankai.edu.cn).
+   
+Feel free to leave issues here or send me e-mails (zhuziyue@mail.nankai.edu.cn).
