@@ -70,7 +70,7 @@ The predicted results of our model trained by COCO9k only is available at [googl
     ```
  
  ## Citation
-    ```
+  ```
   @ARTICLE{10008072,
   author={Zhu, Ziyue and Zhang, Zhao and Lin, Zheng and Sun, Xing and Cheng, Ming-Ming},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
@@ -80,7 +80,7 @@ The predicted results of our model trained by COCO9k only is available at [googl
   number={},
   pages={1-12},
   doi={10.1109/TPAMI.2023.3234586}}
-    ```
+  ```
  
  ## Contact
 
